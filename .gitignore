@@ -1,0 +1,11 @@
+# OS / editor cruft
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
+
+# MS Office lock / temp files
+~$*
+*.laccdb
+
+# Keep everything else (PDFs, xlsx, accdb, images are the deliverables)
