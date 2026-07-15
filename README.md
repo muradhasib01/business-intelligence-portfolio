@@ -4,7 +4,7 @@ Hands-on Business Intelligence projects spanning the **full BI stack** — from 
 
 > **MD Hasibur Rahman Murad** — aspiring Business Intelligence / Data Analyst
 > **Skills:** SQL · Dimensional Modeling (star/snowflake) · Tableau · SAS Visual Analytics · SAP BW · Excel
-> 📫 muradhasib01@gmail.com · 🔗 [github.com/muradhasib01](https://github.com/muradhasib01)
+> 🌐 [Portfolio site](https://muradhasib01.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/hasibur-rahman-murad) · 📫 muradhasib01@gmail.com · 🔗 [github.com/muradhasib01](https://github.com/muradhasib01)
 
 ---
 
