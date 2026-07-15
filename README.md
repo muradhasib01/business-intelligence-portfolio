@@ -44,6 +44,8 @@ A single dataset carried through the whole BI pipeline, showing I can go from **
 
 **Business questions answered:** Which product types drive profit in each market? Which products *lose* money? How does each market contribute to total sales? *(See the SQL for the reproducible answers.)*
 
+▶️ **Try the live interactive dashboard** — this exact Coffee Chain data is rebuilt as a filterable, hoverable chart on my portfolio site: **[muradhasib01.github.io](https://muradhasib01.github.io/#dashboard)**
+
 ---
 
 ## 📂 Project Index
